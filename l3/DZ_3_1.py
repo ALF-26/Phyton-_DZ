@@ -20,4 +20,4 @@ if x == "*":
     result = n1 * n2
     multiplication = 'множення'
     action = multiplication
-print ('Результат ' ,action,' = ',result)
+print ('Результат ' ,action, ' = ' ,result)
