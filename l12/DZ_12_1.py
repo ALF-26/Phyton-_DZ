@@ -1,6 +1,5 @@
 import os
 
-
 def delete_html_tags(html_file, result_file=None):
 
     if (result_file is None or not os.path.exists(result_file)
